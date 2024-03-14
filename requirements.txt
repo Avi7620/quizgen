@@ -9,3 +9,5 @@ Requests==2.31.0
 summa==1.2.0
 yake==0.4.8
 gunicorn
+wn==0.0.23
+pywsd==1.2.4
