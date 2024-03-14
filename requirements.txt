@@ -8,3 +8,4 @@ reportlab==4.1.0
 Requests==2.31.0
 summa==1.2.0
 yake==0.4.8
+gunicorn
