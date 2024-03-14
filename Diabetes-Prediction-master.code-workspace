@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Diabetes-Prediction-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "QuizGen1"
+	}
+}
